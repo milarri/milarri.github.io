@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alex Johnson
+title: Martina Ilarri
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -10,7 +10,7 @@ first_name: Alex
 last_name: Johnson
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Assistant researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'martinailarri@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
