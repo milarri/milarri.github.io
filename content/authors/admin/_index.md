@@ -6,8 +6,8 @@ title: Martina Ilarri
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Martina
+last_name: Ilarri
 
 # Pronouns (optional)
 pronouns: she/her
@@ -37,15 +37,15 @@ profiles:
     url: 'martinailarri@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://twitter.com/martinailarri
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/milarri
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-6780-8221
 
 interests:
   - Large Language Models
