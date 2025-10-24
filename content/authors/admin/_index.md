@@ -27,8 +27,8 @@ role: Assistant researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: CIIMAR - Interdisciplinary Centre of Marine and Environmental Research of the University of Porto
+    url: http://www2.ciimar.up.pt/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -37,21 +37,23 @@ profiles:
     url: 'martinailarri@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/martinailarri
+    url: https://x.com/martinailarri/status/1755898640411791736
   - icon: brands/github
     url: https://github.com/milarri
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/martina-ilarri-b43245332/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?hl=pt-PT&user=Sy5XdsQAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-6780-8221
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Biological Invasions
+  - Climate change
+  - Aquatic Ecology
+  - Conservation
+  - Data Science
+  - Data Management
 
 education:
   - area: PhD Computer Science (AI Focus)
@@ -169,4 +171,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Martina Ilarri is a Researcher at the Benthic ecology and environmental solutions lab, CIIMAR-UP. Her main research interests focus on studying the changes (taxonomical and functional diversity) associated with the introduction of invasive aquatic species at different ecological levels (populations, communities and ecosystems). In addition, she focuses on understanding changes in the functioning of aquatic communities due to the impacts of climate change and extreme weather events.
